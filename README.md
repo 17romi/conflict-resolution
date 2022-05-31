@@ -1,1 +1,3 @@
-# conflict-resolution
+# conflict-
+
+conflicting
